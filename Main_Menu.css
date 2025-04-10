@@ -20,6 +20,7 @@ header h1 span {
     border-radius: 7px;
     margin: 10px;
     padding: 10px;}
+    
 .nav1 a {
     color: #daa520; /* White color for links (or any color you want) */
     text-decoration: none; /* Optional: removes the default underline */
