@@ -25,7 +25,7 @@ header h1 span {
     text-decoration: none; /* Optional: removes the default underline */
 }
 
-/* Optional: Style for visited links */
+/* Optional: Style fr visited links */
 .nav1 a:visited {
     color: #c96cff; /* Light gray for visited links */
 }
