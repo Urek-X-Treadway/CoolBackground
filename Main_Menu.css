@@ -1,0 +1,67 @@
+body {
+    background-color: #222;
+    color: #daa520;
+}
+header {
+    background-color: #444;
+    text-align: center;
+    border: 7px solid black;
+    border-radius: 17px;
+    margin: 7px;
+    padding: 1px;
+}
+header h1 span {
+    background: Black;
+}
+.nav1 {
+    background-color: #444;
+    text-align: center;
+    border: 4px solid black;
+    border-radius: 7px;
+    margin: 10px;
+    padding: 10px;}
+.nav1 a {
+    color: #daa520; /* White color for links (or any color you want) */
+    text-decoration: none; /* Optional: removes the default underline */
+}
+
+/* Optional: Style for visited links */
+.nav1 a:visited {
+    color: #c96cff; /* Light gray for visited links */
+}
+
+/* Optional: Style for when hovering over links */
+.nav1 a:hover {
+    color: #ffffff; /* Yellow on hover */
+}
+
+/* Optional: Style for when the link is clicked */
+.nav1 a:active {
+    color: #000000; /* Red when clicked */
+
+
+
+
+}
+.nav1 button {
+    background-color: #000000;
+    border: 3px solid goldenrod;
+    border-radius: 21px;
+    color: goldenrod;
+    width: 260px;
+    height: 35px;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nav1 button:hover {
+    background-color: goldenrod;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 21px;
+    color: rgb(0, 0, 0);
+}
+.nav1 button:active {
+    background-color: #000000;
+    border: 3px solid goldenrod;
+    border-radius: 21px;
+    color: goldenrod;
+}
