@@ -121,6 +121,7 @@ header h1 span {
     width: 75%;
     border: 7px solid black;
     border-radius: 7px;
+    margin: 40px;
 }
 #img2 {
     width: 75%;
@@ -136,4 +137,8 @@ header h1 span {
     width: 75%;
     border: 7px solid black;
     border-radius: 7px;
+}
+
+span {
+    background: #000000;
 }
