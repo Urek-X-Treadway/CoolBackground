@@ -98,3 +98,30 @@ header h1 span {
     border: 4px solid goldenrod;
     color: goldenrod;
 }
+
+
+
+.samplebackgrounds {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.samplebackgrounds {
+    background-color: #444;
+    margin: 1px;
+    padding: 1px;
+    border-radius: 7px;
+    width: 75%;
+    text-align: center;
+    font-size: large; 
+}
+      
+
+
+#img1 {
+    width: 75%;
+    border: 7px solid black;
+    border-radius: 7px;
+}
