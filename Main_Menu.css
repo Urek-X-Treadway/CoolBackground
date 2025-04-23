@@ -117,28 +117,27 @@ header h1 span {
     text-align: center;
     font-size: large; 
 }
-#img1 {
+#img1,#img2,#img3,#img4{
     width: 75%;
     border: 7px solid black;
     border-radius: 7px;
     margin: 40px;
 }
-#img2 {
-    width: 75%;
-    border: 7px solid black;
-    border-radius: 7px;
-}
-#img3 {
-    width: 75%;
-    border: 7px solid black;
-    border-radius: 7px;
-}
-#img4 {
-    width: 75%;
-    border: 7px solid black;
-    border-radius: 7px;
-}
 
 span {
     background: #000000;
 }
+
+
+
+
+.non_fiction_b_grounds {
+    background-color: #444;
+    margin: 1px;
+    padding: 1px;
+    border-radius: 7px;
+    width: 100%;
+    text-align: center;
+    font-size: large;
+}
+
